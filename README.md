@@ -16,4 +16,4 @@ O link para o Termo de Referência e seus respectivos Anexos, todos com a opçã
 
 Dúvidas, Críticas e/ou sugestões deverão ser submetidas através da criação de novas issues neste repositório:
 
-* https://github.com/uira/SistemaDeCompras/issues
+* https://github.com/ComprasEmRede/TermoDeReferencia/issues
